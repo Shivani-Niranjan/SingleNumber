@@ -20,4 +20,4 @@ result = 0
 
 for i in range(len(array)):
     result ^= array[i]
-    print (result)
+print (result)
